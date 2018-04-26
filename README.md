@@ -109,6 +109,8 @@
       \textbf{Tools}{: AWS, Heroku, Git, Semaphoreci, Vagrant, Docker.}
       \newline
       \textbf{OS}{: LINUX, MacOS, Windows}
+      \newline
+      \textbf{Languages}{: English, Hindi, German(A1), Gujarati}
     }
   \resumeSubHeadingListEnd
 
