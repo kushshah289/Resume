@@ -16,7 +16,7 @@
 \usepackage[pdftex]{hyperref}
 \usepackage{fancyhdr}
 \usepackage[a4paper,bindingoffset=0.2in,%
-            left=.5in,right=1in,top=1in,bottom=1in,%
+            left=.5in,right=1in,top=.75in,bottom=.75in,%
             footskip=.25in]{geometry}
 
 \pagestyle{fancy}
@@ -107,8 +107,8 @@
       \textbf{Web Development}{: JavaScript ES6, SQL, NoSQL, MEAN Stack, PHP, NodeJS, ReactJS, HTML5, CSS3.}
       \newline
       \textbf{Tools}{: AWS, Heroku, Git, Semaphoreci, Vagrant, Docker.}
-      \newline
-      \textbf{OS}{: LINUX, MacOS, Windows}
+      %\newline
+      %\textbf{OS}{: LINUX, MacOS, Windows}
       \newline
       \textbf{Languages}{: English, Hindi, German(A1), Gujarati}
     }
@@ -119,13 +119,11 @@
   \resumeSubHeadingListStart
 
     \resumeSubheading
-      {NYU Center of Urban Science + Progress}{New York, NY}
+      {Center of Urban Science + Progress, NYU}{New York, NY}
       {Teaching Assistant}{Feb 2018 - Present}
       \resumeItemListStart
         \item
-          {Assisted in coursework and assignments for Data Visualization course. Helped students with their queries about D3.js.}
-        \item
-          {Taught JavaScript ES6, React Framework and database concepts.}
+          {Assisted the faculty in design of coursework and lab assignments for Data Visualization course. Helped students with their queries about D3.js. Taught JavaScript ES6, React Framework and database concepts.}
       \resumeItemListEnd
 
     \resumeSubheading
@@ -141,11 +139,11 @@
       \resumeItemListEnd
 
     \resumeSubheading
-      {NYU College of Art and Science, IT Department}{New York, NY}
+      {IT Department, NYU College of Art and Science}{New York, NY}
       {Web Developer}{Feb 2017 and May 2017}
       \resumeItemListStart
         \item
-          {Redesigned the NYU CAS’s cohort website to improve the UI and make the registration process intuitive for the new NYU students. Used AJAX and Javascript along with jQuery.}
+          {Redesigned the NYU CAS’s cohort website to improve the UI and make the registration process intuitive for the new NYU students. Used AJAX and Javascript along with jQuery. They website was able to load in 20\% less time.}
       \resumeItemListEnd
 
     \resumeSubheading
@@ -153,11 +151,11 @@
       {Software Engineer}{Jan 2016 - May 2016}
       \resumeItemListStart
         \item
-          {Developed backend and database of Petts.Club along with the admin panel for the website. The data retrieval was done using Asynchronous JavaScript calls, which enabled the website to fetch data faster and with reduced server calls along with the cost of servers as the project was deployed on cloud.}
+          {Developed backend and database of Petts.Club along with the admin panel for the website. Achieved in reducing the rendering time to 200ms.}
         \item
-          {Developed the sub-routines, triggers and stored-procedures for this website which enhanced the maintainability and security of the website.}
+          {Achieved in reducing the server cost by 25\% by doing data retrieval with Asynchronous JavaScript calls, this enabled the website to fetch data faster and reducing server calls along with the cost of servers as the project was deployed on cloud.}
         \item
-        {Contributed in developing a responsive front-end of the system using HTML5, CSS3 and JavaScript.}
+        {Created a responsive front-end of the system using HTML5, CSS3 and JavaScript. Developed the sub-routines, triggers and stored-procedures for this website which enhanced the maintainability and security of the website.}
       \resumeItemListEnd
 
   \resumeSubHeadingListEnd
@@ -166,13 +164,13 @@
 \section{Projects}
   \resumeSubHeadingListStart
     \resumeSubItem{Weather forecast App }
-      {Used dark sky API, NodeJS, ExpressJS and MongoDB database with RESTful HTTP interface. It provides 100\% uptime by using different primary and secondary services like Google’s geocoding services. }
+      {Used dark sky API, NodeJS, ExpressJS and MongoDB database with RESTful HTTP interface. Achieved 99\% uptime by using different primary and secondary services like Google’s geocoding services. }
     \resumeSubItem{MIPS processor Simulator}
       {Implemented an instruction-level simulator, cache simulator and a branch predictor of MIPS processor in C++.}
     \resumeSubItem{Neural Style Transfer, Machine Learning }
       {Created a machine learning project on neural style transfer that mixes images with different types of styles or textures. Used Neural Networks to amplify features and patterns in input image.}
     \resumeSubItem{Vehicle Tracking System }
-      {Created a Vehicle Tracking System which updates location on a web-portal in real-time using Google Map API and Atmel AVR microcontroller. Used open-source technologies to build the system which helped reduce the cost. The performance of final product was at par with the commercial products available. The system was designed with embedded C/C++. }
+      {Achieved in making a  Vehicle Tracking System which is accurate upto 20m using Google Map API and Atmel AVR microcontroller. Used open-source technologies to build the system which helped reduce the cost. The performance of final product was at par with the commercial products available. The system was designed with embedded C/C++. }
   \resumeSubHeadingListEnd
 
 %
