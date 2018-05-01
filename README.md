@@ -80,7 +80,9 @@
 
 %----------HEADING-----------------
 \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-  \textbf{\Large Kush Shah} & Email : \href{mailto:ks4437@nyu.edu}{ks4437@nyu.edu}\\
+  \textbf{\Large Kush Shah} \\
+  
+  \textbf{10111 95th st, Ozone Park, NY 11416} & Email : \href{mailto:ks4437@nyu.edu}{ks4437@nyu.edu}\\
   \href{http://kushrshah.com/}{http://www.kushrshah.com} & Mobile : +1-404-769-6661 \\
   \href{https://www.linkedin.com/in/kush289shah/}{https://www.linkedin.com/in/kush289shah/} & \href{https://github.com/kushshah289}{https://github.com/kushshah289}
   
